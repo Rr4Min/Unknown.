@@ -3,7 +3,7 @@
 ### Education
 Physics, PhD
 
-##* Work Experience
+## Work Experience
 Data scientist @ Toyota Financial Services
 - big impact project 1!
 
