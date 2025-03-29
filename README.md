@@ -7,5 +7,5 @@ Physics, PhD
 Data scientist @ Toyota Financial Services
 - big impact project 1!
 
-###Projects
+##Projects
 EEG Band Discovery
